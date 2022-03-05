@@ -6,7 +6,7 @@ let gameIsOn = false
 let currentCards = []
 
 let player = {
-	name: "Elon Musk",
+	name: "Chepnyyolo",
 	chip: 100,
 	active: true}
 
